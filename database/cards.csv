@@ -1,0 +1,4 @@
+ name ,intelligence,power,hp,defense,mobility,stealth,g_max
+ Elephant ,75,88,97,96,42,32,3
+ Cheetah ,60,67,66,52,92,72,1
+ Owl ,56,64,32,32,94,91,1
